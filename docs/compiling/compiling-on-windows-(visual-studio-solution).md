@@ -57,7 +57,7 @@ git clone --depth 1 https://github.com/opentibiabr/otclient.git
 
 - Open **`vc18\otclient.sln`**. This should launch Visual Studio.
 
-- Choose build configuration from the drop-downs (Release and x64).
+- Choose build configuration from the drop-downs (DirectX or OpenGL and x64).
 
 - To start compiling go to the menu Build and choose Build Solution.
 
